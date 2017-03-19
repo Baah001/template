@@ -1,0 +1,19 @@
+{
+  "name": "angulartemplate",
+  "version": "0.0.1",
+  "description": "My Angular Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baah001/template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baah001/template/issues"
+  },
+  "homepage": "https://github.com/Baah001/template#readme"
+}
